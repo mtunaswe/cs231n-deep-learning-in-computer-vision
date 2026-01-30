@@ -1,3 +1,7 @@
+<h1 align="center">COMP4471(HKUST): Assignment Solutions</h1>
+<p align="center"><b>Deep Learning in Computer Vision</b></p>
+<p align="center">(adapted from CS231N at Stanford University)</p>
+
 ### Assignment 1
 * [Q1](assignment1/knn.ipynb): k-Nearest Neighbor classifier
 * [Q2](assignment1/svm.ipynb)Training a Support Vector Machine
